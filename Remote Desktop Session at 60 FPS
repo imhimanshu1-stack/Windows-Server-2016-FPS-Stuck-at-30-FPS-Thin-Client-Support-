@@ -1,0 +1,31 @@
+Frame rate is limited to 30 FPS in Windows 8 and Windows Server 2016 remote sessions
+The version that error occurred -1607 (10.0.14393.4704)
+
+
+Remote Desktop Services: Support for OpenGL 4.4 and OpenCL 1.1, performance and stability improvements; MultiPoint Services role (see Windows MultiPoint Server)[8]
+
+
+Problems Occurred are
+Remote Desktop Services having issues getting 60 FPS after trying everything, Like Improve Remote Desktop frame rate to 60fps by enabling AVC 4:4:4 encoding, 
+
+
+We have tried everything to get 60 FPS in Windows Server 2016 But still are unsuccessful in getting it.
+When we connect the thin client to RDP, you Found issues of lagging youtube videos, frame drop, slow responsiveness and slow gestures.
+
+
+
+How to Fix Limited FPS in Windows Server 2016 through RDP Session(Thin Client)
+
+Solution-
+Upgrade to Windows Serve 2019, We have tested and it worked like a charm
+Try to limit the FPS to 60 FPS in RDP, through Windows Server Article -https://docs.microsoft.com/en-us/troubleshoot/windows-server/remote/frame-rate-limited-to-30-fps
+
+
+
+
+Stay Tune for new Update
+
+
+
+
+
